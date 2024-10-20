@@ -1,0 +1,47 @@
+{
+    "projects": [
+      {
+        "title": "Portfolio Site",
+        "image": "images/portfolio.png",
+        "description": "This is my portfolio based on a template from tailwindbox.",
+        "link": "https://github.com/CodingKitten-YT/Rainblur-Landing-Page",
+        "linkTitle": "Github"
+      },
+      {
+        "title": "KittenGames",
+        "image": "images/kittengames.png",
+        "description": "A relatively simple game website that dynamically loads games from a JSON file, and dynamically generates a game page with title and iframe.",
+        "link": "https://github.com/KittenGames/kittengames.github.io",
+        "linkTitle": "Github"
+      },
+      {
+        "title": "HyStore",
+        "image": "images/HyStore.png",
+        "description": "A nice UI for browsing altstore repo's, made with react native expo. Note: I am not the creater i am a contributor.",
+        "link": "https://github.com/hypackel/hystore/",
+        "linkTitle": "Github"
+      },
+      {
+        "title": "WebTerminal",
+        "image": "images/terminal.png",
+        "description": "A web 'terminal' built with full file system, text editor. I also made this to be easily customizable. The documentation is coming later.",
+        "link": "https://github.com/CodingKitten-YT/Webterminal/",
+        "linkTitle": "Github"
+      },
+      {
+        "title": "Flash Embedder",
+        "image": "images/flashembed.png",
+        "description": "A flash embedder powered by ruffle wich i made for my game site.",
+        "link": "https://github.com/CodingKitten-YT/FlashEmbed",
+        "linkTitle": "Github"
+      },
+      {
+        "title": "PICO-8 Embedder",
+        "image": "images/pico8.png",
+        "description": "An embedder for the fantasy console called PICO-8 made by lexaloffle. The embedder is also made for my game site.",
+        "link": "https://github.com/CodingKitten-YT/Pico-8Embedder",
+        "linkTitle": "Github"
+      }
+    ]
+  }
+  

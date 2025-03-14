@@ -9,7 +9,7 @@
       },
       {
         "title": "KittenGames",
-        "image": "images/kittengames.png",
+        "image": "images/Screenshot%202025-03-14%2017.50.34.png",
         "description": "A relatively simple game website that dynamically loads games from a JSON file, and dynamically generates a game page with title and iframe.",
         "link": "https://github.com/KittenGames/kittengames.github.io",
         "linkTitle": "Github"
